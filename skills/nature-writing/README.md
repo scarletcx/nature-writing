@@ -185,7 +185,7 @@ nature-writing/
 | 31–36 | ML 通用 / 基础模型 | ChemCrow · AlphaGeometry · MolE · SemanticLens · Cancer-Imaging-FM · FunSearch | NMI × 4 / Nature × 2 / NC |
 | 37–44 | 纯 AI 方法（v5 新增） | DeepSeek-R1 · Densing-law · AligNet · ADeLe · Webb-MAP · DiscoRL · Farquhar-semantic-entropy · Whitelam-Simmering | Nature × 5 / NMI / NC × 2 |
 
-所有引文均来自开放获取论文（CC-BY 等 license），用于学术评论 / 写作教学。原作者保留版权；转载或商业使用前请核对每篇论文的具体 OA license，详见 [`NOTICE.md`](../../NOTICE.md)。
+所有引文均来自开放获取论文（CC-BY 等 license），用于学术评论 / 写作教学。原作者保留版权；转载或商业使用前请核对每篇论文的具体 OA license，详见 [`NOTICE.md`](./NOTICE.md)。
 
 ## 如何扩展
 
@@ -197,8 +197,8 @@ nature-writing/
 
 ## 许可与出处
 
-- **代码 / Markdown 结构 / 抽取框架**：MIT，见 [`LICENSE`](../../LICENSE)。
-- **verbatim 引文**：原作者保留版权，使用时遵守对应 OA license；见 [`NOTICE.md`](../../NOTICE.md)。
+- **代码 / Markdown 结构 / 抽取框架**：MIT，见 [`LICENSE`](./LICENSE)。
+- **verbatim 引文**：原作者保留版权，使用时遵守对应 OA license；见 [`NOTICE.md`](./NOTICE.md)。
 - **上游项目**：本仓库是对 `SyntaxSmith/nature-writing-skill` 的本地 v5 版本进行跨 agent 打包；写作协议与语料归原项目及论文作者所有。
 
 ## Patron sentence

@@ -22,6 +22,8 @@ REQUIRED_SKILL_FILES = (
     "FIGURE-SKILL.md",
     "_framework.md",
     "README.md",
+    "LICENSE",
+    "NOTICE.md",
     "references/README.md",
     "figure-references/README.md",
 )
